@@ -23,6 +23,6 @@ Mastery of a particular programming language is a very useful side effect of CS 
 
 ### What's the role of this repo?
 
-To record my learning experience and store the hws/labs/projects/exams of mine.
+To record my learning experience and store my solution of hws/labs/projects/exams.
 
 Also, you can ask me any questions about CS61A in the issues section.
