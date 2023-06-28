@@ -11,7 +11,7 @@ def falling(n, k):
     1
     """
     "*** YOUR CODE HERE ***"
-
+    
 
 def sum_digits(y):
     """Sum all the digits of y.
@@ -27,7 +27,11 @@ def sum_digits(y):
     6
     """
     "*** YOUR CODE HERE ***"
-
+    a=0
+    while y >= 1 :
+        a = a + y % 10
+        y = int(y / 10)
+    return a
 
 def double_eights(n):
     """Return true if n has two eights in a row.
